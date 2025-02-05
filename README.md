@@ -1,4 +1,4 @@
-![Banner GIF](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
+![Banner GIF](https://www.icegif.com/wp-content/uploads/2023/12/icegif-95.gif)
 
 # 👋 Hello, I'm Kathrina Elangbam!
 🚀 **B.Tech CSE @ VIT** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
