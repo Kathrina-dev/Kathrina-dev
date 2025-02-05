@@ -1,7 +1,8 @@
+![Banner GIF](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
+
 # 👋 Hello, I'm Kathrina Elangbam!
 🚀 **B.Tech CSE @ VIT** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
-
-![Banner GIF](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=435&lines=Tech+Enthusiast;IoT+Innovator" alt="Typing SVG" /></a>
 
 Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
 
@@ -29,7 +30,6 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 
 ## 🛠️ Tech Stack
 
-### Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
