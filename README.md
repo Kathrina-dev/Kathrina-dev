@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kathrina Elangbam!
+🚀 **B.Tech CSE @ VIT** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KathrinaElangbam&color=blue)](https://github.com/KathrinaElangbam)  
-🚀 **B.Tech CSE @ VIT-AP** | 💻 **Full-Stack Developer** | 💡 **Hardware & Software Innovator**
+![Banner GIF]([https://vsgif.com/gif/your-gif-file.gif](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif))
 
 Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
 
