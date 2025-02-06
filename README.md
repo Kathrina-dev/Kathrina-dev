@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Kathrina Elangbam!
 🚀 **B.Tech CSE @ VIT** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=800&lines=Tech+Enthusiast;IoT+" alt="Typing SVG" /></a>
-
 Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=purple&center=true&vCenter=true&width=2000&height=200&lines=OPEN+SOURCE;FULL+STACK;IoT;WEB+DEV)](https://git.io/typing-svg)
 
 ---
 
@@ -31,8 +31,11 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 
 ## 💻 GitHub Stats
 
-![Kathrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathrina-dev&layout=compact&theme=synthwave)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
+
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kathrina-dev&theme=synthwave" alt="Kathrina-dev" />
 
 ---
 
