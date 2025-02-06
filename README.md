@@ -2,9 +2,10 @@
 
 # 👋 Hello, I'm Kathrina Elangbam!
 🚀 **B.Tech CSE @ VIT** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
+
 Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=purple&center=true&vCenter=true&width=2000&height=200&lines=OPEN+SOURCE;FULL+STACK;IoT;WEB+DEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=purple&center=true&vCenter=true&width=2000&height=200&lines=OPEN+SOURCE;FULL+STACK;IoT+ENTHUSIAST;WEB+DEVELOPER)](https://git.io/typing-svg)
 
 ---
 
@@ -14,6 +15,7 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
   <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
   <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -30,32 +32,35 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 ---
 
 ## 💻 GitHub Stats
+<div align=center>
+  
+  <img align="left"  width="500" height="203" src="https://github-contributor-stats.vercel.app/api?username=Kathrina-dev&limit=4&theme=synthwave" alt="Kathrina-dev" />
+  
+  <p>&nbsp;<img align="center"  width="450" height="203" src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
+  
+  <img align="center"  width="350" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
-
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kathrina-dev&theme=synthwave" alt="Kathrina-dev" />
-
----
-
-## My Contributions
-  <img src="https://github.com/Kathrina-dev/Kathrina-dev/blob/output/github-contribution-grid-snake.svg" alt="light">
-
-
-## 🌱 What I'm Learning
-
-- Open Source Hardware & Software Development
-- Advanced AI Monitoring Systems
-- React.js with Vite Framework
-- Full Stack Development (MERN)
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 My Contributions
+<div align=center>
+  
+  <img align="center" src="https://github.com/Kathrina-dev/Kathrina-dev/blob/output/github-contribution-grid-snake.svg" alt="light">
+  
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kathrina-elangbam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kathrina)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web)](https://your-portfolio-link.com)
+---
 
-Feel free to reach out if you want to collaborate on cool tech projects or just chat about tech! 😊
+## 📫 Let's Connect! 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kathrina-elangbam)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web)](https://your-portfolio-link.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kathrina_elangbam/)
+
+<div align=center>
+  
+  Feel free to reach out if you want to collaborate on cool tech projects or just chat about tech! 😊
+
+</div>
