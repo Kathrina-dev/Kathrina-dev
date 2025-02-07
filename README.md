@@ -5,7 +5,7 @@
 
 Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=violet&center=true&vCenter=true&width=2000&height=200&lines=OPEN+SOURCE;FULL+STACK;IoT+ENTHUSIAST;WEB+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=violet&center=true&vCenter=true&width=2000&height=200&lines=WEB+DEVELOPER;MERN+STACK;OPEN+SOURCE;IoT+ENTHUSIAST)](https://git.io/typing-svg)
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 ## 💻 GitHub Stats
 <div align=center>
   
-  <img align="left"  width="425" height="225" src="https://github-contributor-stats.vercel.app/api?username=Kathrina-dev&limit=3&theme=synthwave" alt="Kathrina-dev" />
+  <img align="left"  width="425" height="225" src="https://github-contributor-stats.vercel.app/api?username=Kathrina-dev&limit=4&theme=synthwave" alt="Kathrina-dev" />
   
   <p>&nbsp;<img align="center"  width="400" height="190" src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
   
