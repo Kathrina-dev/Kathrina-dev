@@ -1,7 +1,7 @@
 ![Banner GIF](https://www.icegif.com/wp-content/uploads/2023/12/icegif-95.gif)
 
 # 👋 Hello, I'm Kathrina Elangbam!
-🚀 **B.Tech CSE @ VIT** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
+🚀 **B.Tech CSE** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
 
 Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
 
