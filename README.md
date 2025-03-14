@@ -34,8 +34,6 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 ## 💻 GitHub Stats
 <div align=center>
   
-  <img align="left"  width="425" height="225" src="https://github-contributor-stats.vercel.app/api?username=Kathrina-dev&limit=4&theme=synthwave" alt="Kathrina-dev" />
-  
   <p>&nbsp;<img align="center"  width="400" height="190" src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
   
   <img align="center"  width="350" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
