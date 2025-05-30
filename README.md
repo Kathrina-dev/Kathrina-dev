@@ -33,19 +33,18 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 
 ## 💻 GitHub Stats
 
-  <p>&nbsp;<img align=left  src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
-  
-  <img align=right  src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
+</p>
 
+<br/>
 
 ---
 
 ## 🌟 My Contributions
 
-  
   <img align="center" src="https://github.com/Kathrina-dev/Kathrina-dev/blob/output/github-contribution-grid-snake.svg" alt="light">
-  
-
 
 ---
 
@@ -56,4 +55,3 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kathrina_elangbam/)
   
   Feel free to reach out if you want to collaborate on cool tech projects or just chat about tech! 😊
-
