@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Kathrina Elangbam!
 🚀 **B.Tech CSE** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
 
-Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
+Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, app development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=violet&center=true&vCenter=true&width=2000&height=200&lines=WEB+DEVELOPER;MERN+STACK;OPEN+SOURCE;IoT+ENTHUSIAST)](https://git.io/typing-svg)
 
@@ -33,9 +33,9 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 
 ## 💻 GitHub Stats
 
-  <p>&nbsp;<img align=left width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
+  <p>&nbsp;<img align=left  src="https://github-readme-stats.vercel.app/api?username=Kathrina-dev&show_icons=true&locale=en&theme=synthwave" alt="Kathrina-dev" /></p>
   
-  <img align=right width="350" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
+  <img align=right  src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathrina-dev&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Kathrina-dev" />
 
 
 ---
