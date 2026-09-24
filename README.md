@@ -95,7 +95,7 @@ Welcome to my GitHub! I'm a passionate computer science student with a knack for
 ## 📫 Let's Connect! 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kathrina-elangbam-03b6692b3/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web)](https://kathrina-dev.github.io/Portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web)](https://kathrinaelangbam.xyz/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kathrina_elangbam/)
   
   Feel free to reach out if you want to collaborate on cool tech projects or just chat about tech! 😊
