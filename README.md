@@ -1,101 +1,57 @@
-# 👋 Hello, I'm Kathrina Elangbam!
-🚀 **B.Tech CSE** | 💡 **Web & Open Source Enthusiast** | 🖥️ **Hardware & Software Developer**
+# Hey, I'm Kathrina Elangbam
 
-Welcome to my GitHub! I'm a passionate computer science student with a knack for web development, app development, hardware projects, and open-source contributions. I love combining technology with creativity to build cool stuff, from smart IoT devices to AI-powered web apps. 
+**B.Tech CSE** | **Full stack Developer** | **Linux & Security Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=100&pause=1000&color=violet&center=true&vCenter=true&width=2000&height=200&lines=WEB+DEVELOPER;MERN+STACK;OPEN+SOURCE;IoT+ENTHUSIAST)](https://git.io/typing-svg)
+Hey there! I'm a CS undergrad who is excited about building things from scratch. Whether it's wiring up backend APIs and RAG pipelines, building quirky Flutter desk apps, ricing my EndeavourOS setup at 2 AM, or crafting CTF challenges, I just love turning random ideas into software that feels alive.
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C44582&center=true&vCenter=true&width=650&height=45&lines=BACKEND+%26+RAG+SYSTEMS;FULL-STACK+%26+FLUTTER+APPS;CLOUD+ORCHESTRATION+%26+LINUX;ALWAYS+BUILDING+SOMETHING+NEW" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### Core Stack
 
-### 🌐 Frontend Development
 <div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 </div>
 
----
-
-### ⚙️ Backend Development
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-</div>
+<p align="center">
+  Want the full breakdown of everything I build and my projects? Check out <a href="https://github.com/Kathrina-dev/Kathrina_skills"><strong>Kathrina_skills</strong></a>!
+</p>
 
 ---
 
-### 🗄️ Databases
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg"/>
-</div>
+<p align="center">
+  <img src="https://github.com/Kathrina-dev/Kathrina-dev/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
 
----
+### Let's Connect!
 
-### 📱 App Development
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kathrina-elangbam-03b6692b3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://kathrinaelangbam.xyz/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web" alt="Portfolio" /></a>
+</p>
 
----
-
-### 🤖 AI / Data Science
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-</div>
-
----
-
-### 🤖 IoT & Hardware
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-</div>
-
----
-
-### 🐳 DevOps & Development Environment
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-</div>
-
----
-
-### 🧰 Tools & Workflow
-<div align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-</div>
-
----
-
-## 🌟 My Contributions
-
-  <img align="center" src="https://github.com/Kathrina-dev/Kathrina-dev/blob/output/github-contribution-grid-snake.svg" alt="light">
-
----
-
-## 📫 Let's Connect! 
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kathrina-elangbam-03b6692b3/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web)](https://kathrinaelangbam.xyz/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kathrina_elangbam/)
-  
-  Feel free to reach out if you want to collaborate on cool tech projects or just chat about tech! 😊
+<p align="center">
+  Feel free to reach out if you want to collaborate on cool projects or just chat about tech! 😊
+</p>
