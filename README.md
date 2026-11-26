@@ -6,7 +6,7 @@ Hey there! I'm a CS undergrad who is excited about building things from scratch.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C44582&center=true&vCenter=true&width=650&height=45&lines=FULL-STACK+DEVELOPER;FLUTTER+APPS;CLOUD+ORCHESTRATION+%26+LINUX;ALWAYS+BUILDING+SOMETHING+NEW" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8245C4&center=true&vCenter=true&width=650&height=45&lines=FULL-STACK+DEVELOPER;FLUTTER+APPS;CLOUD+ORCHESTRATION+%26+LINUX;ALWAYS+BUILDING+SOMETHING+NEW" alt="Typing SVG" />
   </a>
 </p>
 
