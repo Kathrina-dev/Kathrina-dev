@@ -6,7 +6,7 @@ Hey there! I'm a CS undergrad who is excited about building things from scratch.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C44582&center=true&vCenter=true&width=650&height=45&lines=BACKEND+%26+RAG+SYSTEMS;FULL-STACK+%26+FLUTTER+APPS;CLOUD+ORCHESTRATION+%26+LINUX;ALWAYS+BUILDING+SOMETHING+NEW" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C44582&center=true&vCenter=true&width=650&height=45&lines=FULL-STACK+DEVELOPER;FLUTTER+APPS;CLOUD+ORCHESTRATION+%26+LINUX;ALWAYS+BUILDING+SOMETHING+NEW" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,6 +34,8 @@ Hey there! I'm a CS undergrad who is excited about building things from scratch.
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 </div>
+
+<br />
 
 <p align="center">
   Want the full breakdown of everything I build and my projects? Check out <a href="https://github.com/Kathrina-dev/Kathrina_skills"><strong>Kathrina_skills</strong></a>!
